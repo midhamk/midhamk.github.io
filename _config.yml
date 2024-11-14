@@ -1,3 +1,10 @@
-title: My GitHub Page
-description: A simple site on GitHub Pages
+title: your website title
+description: some description
+google_analytics: 
+show_downloads: true 
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+plugins:
+  - jekyll-include-cache
+  - gemfile
 
